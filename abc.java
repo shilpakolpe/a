@@ -2,7 +2,7 @@ class newest
 {
 public static void main(String args[])
 {
-int a=1000;
+int a=100;
 System.out.println("the value of a is :"+a);
 }
 }
